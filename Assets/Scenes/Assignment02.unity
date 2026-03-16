@@ -510,7 +510,8 @@ MonoBehaviour:
   ShowTopMostFoldoutHeaderGroup: 1
   deviceType: 1
   linkedDevice: {fileID: 256176990}
-  debrisPrefab: {fileID: 0}
+  debrisPrefab: {fileID: 8307871212885766751, guid: 46ae57a0f15c44f518854ffef6bdbba1,
+    type: 3}
 --- !u!4 &133306281 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 417258, guid: ac7a01ca06ca9044eb15b32cb7a936f8,
@@ -1121,7 +1122,8 @@ MonoBehaviour:
   ShowTopMostFoldoutHeaderGroup: 1
   deviceType: 0
   linkedDevice: {fileID: 1107439878}
-  debrisPrefab: {fileID: 0}
+  debrisPrefab: {fileID: 8307871212885766751, guid: 46ae57a0f15c44f518854ffef6bdbba1,
+    type: 3}
 --- !u!4 &299138401 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 400000, guid: f956c720d66359e44b3d685035075942,
@@ -3426,7 +3428,8 @@ MonoBehaviour:
   ShowTopMostFoldoutHeaderGroup: 1
   deviceType: 1
   linkedDevice: {fileID: 289606305}
-  debrisPrefab: {fileID: 0}
+  debrisPrefab: {fileID: 8307871212885766751, guid: 46ae57a0f15c44f518854ffef6bdbba1,
+    type: 3}
 --- !u!1001 &1133761867
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4123,7 +4126,8 @@ MonoBehaviour:
   ShowTopMostFoldoutHeaderGroup: 1
   deviceType: 0
   linkedDevice: {fileID: 1946542999}
-  debrisPrefab: {fileID: 0}
+  debrisPrefab: {fileID: 8307871212885766751, guid: 46ae57a0f15c44f518854ffef6bdbba1,
+    type: 3}
 --- !u!1 &1428851706
 GameObject:
   m_ObjectHideFlags: 0
@@ -4687,7 +4691,8 @@ MonoBehaviour:
   ShowTopMostFoldoutHeaderGroup: 1
   deviceType: 1
   linkedDevice: {fileID: 2114712973}
-  debrisPrefab: {fileID: 0}
+  debrisPrefab: {fileID: 8307871212885766751, guid: 46ae57a0f15c44f518854ffef6bdbba1,
+    type: 3}
 --- !u!1001 &1655593566
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5734,6 +5739,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6567902, guid: 3845c7234a0ed4843ba4e38e2404f54d, type: 3}
+      propertyPath: m_Material
+      value: 
+      objectReference: {fileID: 13400000, guid: 3057a446bba764932b8b91319299a98d,
+        type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -5967,7 +5977,8 @@ MonoBehaviour:
   ShowTopMostFoldoutHeaderGroup: 1
   deviceType: 1
   linkedDevice: {fileID: 1426294625}
-  debrisPrefab: {fileID: 0}
+  debrisPrefab: {fileID: 8307871212885766751, guid: 46ae57a0f15c44f518854ffef6bdbba1,
+    type: 3}
 --- !u!1001 &1955550237
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -6718,7 +6729,8 @@ MonoBehaviour:
   ShowTopMostFoldoutHeaderGroup: 1
   deviceType: 0
   linkedDevice: {fileID: 1642104960}
-  debrisPrefab: {fileID: 0}
+  debrisPrefab: {fileID: 8307871212885766751, guid: 46ae57a0f15c44f518854ffef6bdbba1,
+    type: 3}
 --- !u!1 &2131236822
 GameObject:
   m_ObjectHideFlags: 0
