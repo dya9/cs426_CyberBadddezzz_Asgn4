@@ -67,5 +67,5 @@
         "*.sln": "*.csproj",
         "*.slnx": "*.csproj"
     },
-    "dotnet.defaultSolution": "cs426_CyberBadddezzz_Asgn2.slnx"
+    "dotnet.defaultSolution": "cs426_CyberBadddezzz_Asgn2_clone.slnx"
 }
